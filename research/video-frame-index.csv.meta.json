@@ -1,0 +1,10 @@
+{
+  "source_sha256": "9abb215f46f7cd6c8b1af8dab284c62a64662617686f9ff0889fb07ff685def4",
+  "frames_decoded": 1209,
+  "fps": 30.0,
+  "width": 576,
+  "height": 1024,
+  "duration_seconds": 40.3,
+  "method": "Full-resolution BGR2GRAY; cv2.mean(absdiff(current, previous)); six-decimal CSV; first delta zero.",
+  "visual_review": "Separate timestamped contact-sheet/cut inspection; this ledger is computational, not a transcript."
+}

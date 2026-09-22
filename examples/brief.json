@@ -1,0 +1,18 @@
+{
+  "question": "Should a small laundry pickup service build a booking app now, or validate demand manually first?",
+  "mode": "business",
+  "constraints": [
+    "Spend no money without approval",
+    "One small reversible next step",
+    "No customer demand has been verified"
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "source": "Synthetic demo brief; not real market research",
+      "excerpt": "The illustrative operator has not interviewed customers, measured route cost or accepted paid bookings. No spending budget has been approved.",
+      "provenance": "user-supplied",
+      "retrieved_at": "2026-09-22"
+    }
+  ]
+}
